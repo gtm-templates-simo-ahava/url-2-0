@@ -1,8 +1,10 @@
 homepage: "https://www.simoahava.com/"
 versions:
   # Latest version
+  - sha: 1e622ff71ec56c1c008735081c0d6f770cc7383d
+    changeNotes: Fix Fragment Key option to handle question marks in URL as well
+  # Older versions
   - sha: 2e98c592e690b4e15d115f02f6f3f9d2e23e1292
     changeNotes: Update template metadata.
-  # Older versions
   - sha: 0a27404e842962fe346fd863fafcc93346885354
     changeNotes: Initial release.
